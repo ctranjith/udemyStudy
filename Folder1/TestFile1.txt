@@ -1,1 +1,2 @@
-File 1
+File -- New Line added
+Second line
