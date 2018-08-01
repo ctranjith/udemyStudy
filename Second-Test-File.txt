@@ -1,1 +1,1 @@
-THis is second test file for git; changes
+THis is second test file for git; changed file
