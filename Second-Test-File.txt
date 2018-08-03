@@ -5,3 +5,4 @@ Changed local file
 =======
 THis is second test file for git; changes-- Update done directly 
 >>>>>>> 476621d75e2901ca0ca52aa5bb362402db3d574f
+Last line
